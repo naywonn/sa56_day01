@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Sa56Day01Application<sa56_day01>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "sg.edu.nus.iss.sa56_day01.Sa56Day01Application",
+            "projectName": "sa56_day01",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

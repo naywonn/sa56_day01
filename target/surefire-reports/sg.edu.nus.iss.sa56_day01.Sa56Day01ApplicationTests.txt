@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: sg.edu.nus.iss.sa56_day01.Sa56Day01ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.932 s - in sg.edu.nus.iss.sa56_day01.Sa56Day01ApplicationTests
